@@ -13,3 +13,6 @@
 29/09:
 -Undervisning: Vi har i dag arbejdet med at tilføje knapper til vores kredsløb. Vi valgte som opgave at opsætte en sensor, som kan aflæse farve.
 -Gruppearbejde: Vi løste opgaven og den relevante kode og video kan findes: https://github.com/LucasHemm/RoALog/tree/main/LightSensor. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
