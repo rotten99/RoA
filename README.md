@@ -10,9 +10,13 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-29/09:
+29/08:
 -Undervisning: Vi har i dag arbejdet med at tilføje knapper til vores kredsløb. Vi valgte som opgave at opsætte en sensor, som kan aflæse farve.
 -Gruppearbejde: Vi løste opgaven og den relevante kode og video kan findes: https://github.com/LucasHemm/RoALog/tree/main/LightSensor. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+31/08:
+-Undervisning: Vi forbandt i dag vores nodemcu til Wifi. Vi fik som opgave at skulle kunne tænde tre dioder over Wifi. Video og kode kan findes: https://github.com/LucasHemm/RoALog/tree/main/WiFiExample
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
