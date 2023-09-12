@@ -26,3 +26,6 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+07/09:
+-undervisning: Vi lavede i dag en holder til den lille nodemcu sammen i klassen. Som opgave fik vi at lave en holder til den store nodemcu.
