@@ -29,3 +29,15 @@
 
 07/09:
 -undervisning: Vi lavede i dag en holder til den lille nodemcu sammen i klassen. Som opgave fik vi at lave en holder til den store nodemcu.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12/09:
+-undervisning: Vi begyndte at arbejde på at komme op med en klik system, der skulle kunne samle to ting. Vi endte som klasse at gå med det system Tobias i forvejen havde testet. Bagefter begyndte Tobias så småt at kode det foran klassen.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+15/09:
+-undervisning: Der blev arbejdet videre på klik systemet samt printet en masse prototyper.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
