@@ -41,3 +41,6 @@
 -undervisning: Der blev arbejdet videre på klik systemet samt printet en masse prototyper.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+22/9 - 24/10
+Vi er begyndt på gruppearbejde, og efter en masse brainstorming kom vi fremtil at lave en robot, der kunne hælde pap-vin op over WiFi. Vi brugte de første par gange til finde ud af hvordan, den skulle designes. Mit input til robotten er primært kommet fra at kode robottens logik i c++, og komme med indskud til hvordan selve skulle åbne og lukkes.
