@@ -43,4 +43,17 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 22/9 - 24/10
-Vi er begyndt på gruppearbejde, og efter en masse brainstorming kom vi fremtil at lave en robot, der kunne hælde pap-vin op over WiFi. Vi brugte de første par gange til finde ud af hvordan, den skulle designes. Mit input til robotten er primært kommet fra at kode robottens logik i c++, og komme med indskud til hvordan selve skulle åbne og lukkes.
+Vi er begyndt på gruppearbejde, og efter en masse brainstorming kom vi fremtil at lave en robot, der kunne hælde pap-vin op over WiFi. Vi brugte de første par gange til finde ud af hvordan, den skulle designes. Mit input til robotten er primært kommet fra at kode robottens logik i c++, og komme med indskud til hvordan selve tappen skulle åbnes og lukkes.
+
+Kode til nodemcu: https://github.com/rotten99/RoA/tree/main/WineProject
+
+Kode til 3d-print:
+https://github.com/rotten99/RoA/tree/main/BeerClaw_TheClaw_Project
+https://github.com/rotten99/RoA/tree/main/MoistSensorHolder
+https://github.com/rotten99/RoA/tree/main/NodeMCUCutout
+
+Video af prototype af PoC:
+https://github.com/rotten99/RoA/blob/main/386199981_6307042496085403_1979843576622044505_n.mp4
+
+Video af det færdige projekt:
+https://github.com/rotten99/RoA/blob/main/10000000_6607651626014515_7158213269154070305_n.mp4
